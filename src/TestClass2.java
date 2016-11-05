@@ -1,6 +1,6 @@
 
 public class TestClass2 {
-	
+	//Adding comments
 	
 	String name;
 	float salary;
